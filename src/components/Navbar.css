@@ -7,13 +7,14 @@
     z-index: 1;
     transition: .3s ease-in;
     overflow: hidden;
+    background-color: rgba(0,0,0,.9);
 }
 
 .header .navbar{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: 120px;
+    max-width: 1240px;
     margin: auto;
     height: 100%;
     padding: 0 1rem;
